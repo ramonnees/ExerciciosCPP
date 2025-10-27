@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+    cout<< "Calculadora de Media Escolar"<< endl; 
     float nota1,nota2,nota3,media;
     cout <<"Digite as 3 notas do aluno:"<< endl;
     cout << "Nota 1: ";
