@@ -18,4 +18,6 @@ int main(){
     cout << "Antes da troca x: " << x << ", y: " << y << endl;
     trocar(&x, &y);
     cout << "Depois da troca x : " << x << ", y: " << y << endl;
+
+    return 0;
 }

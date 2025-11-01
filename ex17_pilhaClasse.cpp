@@ -47,4 +47,5 @@ int main(){
         cout << "Removendo: " << minhaPilha.top() << endl;
         minhaPilha.pop();
     }
+    return 0;
 }
